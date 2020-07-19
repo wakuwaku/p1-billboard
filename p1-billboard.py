@@ -4,6 +4,7 @@
 #  Also shows costs per 24 hours and the current time 
 #  example p1 meter uitlezen http://10.0.1.122:8080/json.htm?type=devices&rid=343
 
+
 import tkinter as tk
 import time
 import urllib.request
